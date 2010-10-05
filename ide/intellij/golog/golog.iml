@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/out/production/string-template" />
+    <output-test url="file://$MODULE_DIR$/out/test/string-template" />
+    <content url="file://$MODULE_DIR$/../../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../src/main/resource" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../src/test/resource" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="lib-development">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../lib/development" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../lib/development" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib-production">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../lib/production" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../lib/production" recursive="true" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
